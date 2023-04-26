@@ -1,4 +1,4 @@
-# gdrive-linux-aarch64
+# gdrive-linux-aarch
 
 ## Overview
 
